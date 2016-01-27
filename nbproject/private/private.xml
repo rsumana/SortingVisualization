@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/NetBeansProjects/Sorting_Visualization/src/sorting/InsertionSort.java</file>
+            <file>file:/E:/NetBeansProjects/Sorting_Visualization/src/visualization/RunnableSort.java</file>
+            <file>file:/E:/NetBeansProjects/Sorting_Visualization/src/visualization/DatasetOperations.java</file>
+            <file>file:/E:/NetBeansProjects/Sorting_Visualization/src/sorting/QuickSort.java</file>
+            <file>file:/E:/NetBeansProjects/Sorting_Visualization/src/sorting/BubbleSort.java</file>
+            <file>file:/E:/NetBeansProjects/Sorting_Visualization/src/visualization/Constants.java</file>
+            <file>file:/E:/NetBeansProjects/Sorting_Visualization/src/sorting/SelectionSort.java</file>
+            <file>file:/E:/NetBeansProjects/Sorting_Visualization/src/visualization/FrameOperations.java</file>
+            <file>file:/E:/NetBeansProjects/Sorting_Visualization/src/visualization/Sorting_Visualization.java</file>
+            <file>file:/E:/NetBeansProjects/Sorting_Visualization/src/sorting/MergeSort.java</file>
+        </group>
+    </open-files>
+</project-private>
